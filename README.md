@@ -13,6 +13,10 @@ La prueba general se divide en pequeños ejercicios con los cuales se evaluará 
 
 > **Extra:** puedes utilizar alguna libreria o framework de frontend por ej React, Vue etc
 
+> **Extra:** puedes utilizar un preprocesador de css por ej. sass
+
+> **Extra:** puedes utilizar Typescript para el proyecto
+
 Finalizada la prueba recuerda enviar link del proyecto y tu repositorio a tecnologia@eya.mx con tu información de contacto y en el asunto colocar: **FRONTEND-INTERVIEW-EYA**
 
 ## Problema a resolver:
