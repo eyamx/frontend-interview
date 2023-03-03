@@ -9,9 +9,9 @@ La prueba general se divide en pequeños ejercicios con los cuales se evaluará 
 
 > **Importante:** utilizar algun framework de css por ej. Bootstrap, Tailwind, etc.
 
-> **Extra:** puedes utilizar alguna libreria o framework de frontend por ej React, Vue etc
+> **Importante:** validar fomulario con javascript
 
-> **Extra:** validar fomulario con javascript
+> **Extra:** puedes utilizar alguna libreria o framework de frontend por ej React, Vue etc
 
 Finalizada la prueba recuerda enviar link del proyecto y tu repositorio a tecnologia@eya.mx con tu información de contacto y en el asunto colocar: **FRONTEND-INTERVIEW-EYA**
 
