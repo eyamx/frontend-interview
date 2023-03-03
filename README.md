@@ -1,5 +1,5 @@
 # Prueba técnica Frontend para EYA
-Hola, Bienvenido a tu prueba técnica para la vacante como desarrollador, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un ejercicio práctico.
+Hola, Bienvenido(a) a tu prueba técnica para la vacante como desarrollador, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un ejercicio práctico.
 
 La prueba general se divide en pequeños ejercicios con los cuales se evaluará en práctica:
 * Pensamiento lógico.
